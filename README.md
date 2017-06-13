@@ -3,20 +3,20 @@ Very Lightweight jQuery Parallax plugin
 
 <h2>Getting started</h2>
 <h3>Javascript (requires JQuery)</h3>
-<p>
+<pre>
 	jQuery(".slock").slock({
 		speed: 0.2 
 	});
-</p>
+</pre>
 
 <h3>HTML</h3>
-<p>
+<pre>
   <div class="slock" style="background-image: url(yourimage.jpg);">
   </div>	
-</p>
+</pre>
 
 <h3>CSS</h3>
-<p>
+<pre>
   .slock
 	{
 		height:       				500px;
@@ -26,4 +26,4 @@ Very Lightweight jQuery Parallax plugin
 		transform: 				    translateX(0);
 		will-change: 			    background-position-y;
 	}	
-</p>
+</pre>
