@@ -11,8 +11,8 @@ jQuery(".slock").slock({
 
 <h3>HTML</h3>
 <pre><code>
-<div class="slock" style="background-image: url(yourimage.jpg);">
-</div>	
+&lt;div class="slock" style="background-image: url(yourimage.jpg);"&gt;
+&lt;/div&gt;	
 </code></pre>
 
 <h3>CSS</h3>
